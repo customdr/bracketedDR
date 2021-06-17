@@ -1,0 +1,22 @@
+{
+    "log": {
+        "timeFormat" : "R"
+    },
+    "cx": {
+        "host" : "http://UPDATE_ME",
+        "username" : "UPDATE_ME",
+        "password" : "UPDATE_ME",
+        "db": {
+            "instance": "SQLSERVER_INSTANCE\\UPDATE_ME",
+            "username": "",
+            "password": ""
+        }
+    },
+    "dataRetention": {
+        "daysToRetain" : 145,
+        "latestScansToRetain" : 0,
+        "earliestScansToRetain" : 0,
+        "removeScansWithNoCodeChange" : false,
+        "durationLimitHours" : 4
+    }
+}
