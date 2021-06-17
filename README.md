@@ -9,7 +9,7 @@ To run data retention based on custom criteria:
 **To actually run DR, they have to explicitly provide the -exec parameter.**
 
 # JSON Config
-Update the relevant sections of the JSON config file:
+Update the relevant sections of the JSON config file before running the script.
 
 ```
 {
